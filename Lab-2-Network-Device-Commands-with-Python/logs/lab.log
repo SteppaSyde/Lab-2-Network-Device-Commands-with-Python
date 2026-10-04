@@ -1,0 +1,11 @@
+LAB2_START
+CREDENTIALS_COLLECTED
+CONNECT_OK
+CMD_RUN:show version
+PARSE_OK:show version
+CMD_RUN:show ip interface brief
+PARSE_OK:show ip interface brief
+CMD_RUN:show inventory
+PARSE_OK:show inventory
+REPORT_SAVED
+LAB2_END

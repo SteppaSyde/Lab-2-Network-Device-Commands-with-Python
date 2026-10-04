@@ -1,0 +1,18 @@
+Cisco IOS XE Software, Version 17.09.04
+Cisco IOS Software [Amsterdam], Catalyst L3 Switch Software (CAT9K_IOSXE), Version 17.09.04, RELEASE SOFTWARE (fc1)
+Technical Support: http://www.cisco.com/techsupport
+Copyright (c) 1986-2024 by Cisco Systems, Inc.
+Compiled Thu 18-Jul-24 23:59 by mcpre
+
+ROM: IOS-XE ROMMON
+BOOTLDR: System Bootstrap, Version 17.9.1r, RELEASE SOFTWARE (fc1)
+
+SW1.cisco.com uptime is 12 weeks, 3 days, 20 hours, 36 minutes
+System returned to ROM by power cycle at 00:00:00 UTC
+System image file is "flash:packages.conf"
+
+Last reload reason: power cycle
+
+Cisco Catalyst 9300 Switch
+Model Number: C9300-24T
+Processor board ID: FXS1234ABC

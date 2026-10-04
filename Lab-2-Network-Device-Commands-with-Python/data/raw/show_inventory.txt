@@ -1,0 +1,3 @@
+NAME: "Chassis", DESCR: "Cisco Catalyst 9300 24-port Data", PID: C9300-24T , VID: V00, SN: FXS1234ABC
+NAME: "Power Supply 1", DESCR: "Cisco Catalyst 9300 24-port Data Power Supply", PID: PWR-C1-715WAC, VID: V01, SN: PS1234
+NAME: "Fan Tray", DESCR: "Cisco Catalyst 9300 Fan Tray", PID: FAN-T1, VID: V03, SN: FAN4321

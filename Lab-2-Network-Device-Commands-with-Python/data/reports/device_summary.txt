@@ -1,0 +1,8 @@
+Device Summary
+--------------
+Hostname: SW1.cisco.com
+Model: C9300-24T
+Software Version: 17.09.04
+Interface Information: 3 interfaces parsed
+Inventory: 1 inventory entries
+

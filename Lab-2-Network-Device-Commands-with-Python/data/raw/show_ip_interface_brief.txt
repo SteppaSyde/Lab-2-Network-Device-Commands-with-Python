@@ -1,0 +1,4 @@
+Interface              IP-Address      OK? Method Status                Protocol
+GigabitEthernet1/0/1   10.0.0.10      YES DHCP   up                    up
+GigabitEthernet1/0/2   unassigned     YES NVRAM  down                  down
+Vlan1                  192.168.1.1    YES DHCP   up                    up
